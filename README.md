@@ -13,6 +13,8 @@
 ### Nội Dung 
 #### **Sáng** 
 #### Bài 1. Giới thiệu về nghiên cứu khoa học và y đức trong nghiên cứu y sinh học [Lợi]
+- [PDF](DOCUMENTS/PDF/Bai_1.pdf)
+
 #### Bài 2: Tìm kiếm và tóm tắt y văn với sự hỗ trợ của AI [Đình]
 - [PDF](DOCUMENTS/PDF/2.Search_read_and_sumarize_medical_literature.pdf)
 
@@ -21,15 +23,18 @@
 - [PDF](DOCUMENTS/PDF/4.Data_collection_and_storage.pdf)
 
 #### **Chiều**
-#### Bài 5: Xử lý và mô tả số liệu nghiên cứu bằng R [Đan, Lợi]
+#### Bài 5: Giới thiệu Google Colab và ứng dụng AI trong viet ngon ngu lap trinh R [Lợi, Đan]
+
+#### Bài 6: Xử lý và mô tả số liệu nghiên cứu bằng R [Đan, Lợi]
 - [PDF](DOCUMENTS/PDF/5.Data_Management_and_Descriptive_Statistics_in_R.pdf)
 - Thực hành trên Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gq_Wz4EV9oB-dDFk3fY7aifNGVPD1fuo?usp=sharing)
 
-#### Bài 6: Phân tích thống kê cơ bản trong nghiên cứu y học với R [Lợi]
-#### Bài 7: Trực quan hoá dữ liệu với R [Đan, Đình]
+#### Bài 7: Phân tích thống kê cơ bản trong nghiên cứu y học với R [Lợi]
+#### Bài 8: Trực quan hoá dữ liệu với R [Đan, Đình]
+- [PDF](DOCUMENTS/PDF/8.Data_visualization_with_R.pdf)
+- Barplot & It's variants: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fo_R_oG05bVE8RoJl8A-oD7YfH8AvsTG?usp=sharing)
 - Kaplan Meier & Forest Plot: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17APeRSavsPvm1SC-wjVuBZVixv_zQnlD?usp=sharing)
 
-#### Bài 8: Viết bài báo khoa học với sự hỗ trợ của AI [Lợi, Đan]
 #### Bài 9: Đặt câu hỏi và Ôn tập [All]
 
 
