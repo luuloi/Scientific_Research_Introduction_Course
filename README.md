@@ -22,6 +22,9 @@
 
 #### **Chiều**
 #### Bài 5: Xử lý và mô tả số liệu nghiên cứu bằng R [Đan, Lợi]
+- [PDF](DOCUMENTS/PDF/5.Data_Management_and_Descriptive_Statistics_in_R.pdf)
+- Thực hành trên Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gq_Wz4EV9oB-dDFk3fY7aifNGVPD1fuo?usp=sharing)
+
 #### Bài 6: Phân tích thống kê cơ bản trong nghiên cứu y học với R [Lợi]
 #### Bài 7: Trực quan hoá dữ liệu với R [Đan, Đình]
 - Kaplan Meier & Forest Plot: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17APeRSavsPvm1SC-wjVuBZVixv_zQnlD?usp=sharing)
