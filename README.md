@@ -9,7 +9,7 @@
 #### **Sáng**
 #### Bài 1. Giới thiệu về nghiên cứu khoa học và y đức trong nghiên cứu y sinh học [Lợi]
 #### Bài 2: Tìm kiếm và tóm tắt y văn với sự hỗ trợ của AI [Đình]
-- [PDF](DOCUMENTS/PDF/2.Search_read_and_sumarize_medical literature.pdf)
+- [PDF](DOCUMENTS/PDF/2.Search_read_and_sumarize_medical_literature.pdf)
 
 #### Bài 3: Thiết kế nghiên cứu và ước lượng cỡ mẫu [Lợi]
 #### Bài 4: Thu thập và lưu trữ dữ liệu [Đình]
