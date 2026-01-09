@@ -6,16 +6,21 @@
 ### Giảng viên:	TS. Lưu Phúc Lợi
 ### Trợ giảng:	ThS. Võ Trung Đình và CN. Phạm Hiếu Đan
 ### Nội Dung
-#### Sáng
+#### **Sáng**
 #### Bài 1. Giới thiệu về nghiên cứu khoa học và y đức trong nghiên cứu y sinh học [Lợi]
 #### Bài 2: Tìm kiếm và tóm tắt y văn với sự hỗ trợ của AI [Đình]
+- [PDF](DOCUMENTS/PDF/2.Search_read_and_sumarize_medical literature.pdf)
+
 #### Bài 3: Thiết kế nghiên cứu và ước lượng cỡ mẫu [Lợi]
 #### Bài 4: Thu thập và lưu trữ dữ liệu [Đình]
-#### Chiều
+- [PDF](DOCUMENTS/PDF/4.Data_collection_and_storage.pdf)
+
+#### **Chiều**
 #### Bài 5: Xử lý và mô tả số liệu nghiên cứu bằng R [Đan, Lợi]
 #### Bài 6: Phân tích thống kê cơ bản trong nghiên cứu y học với R [Lợi]
 #### Bài 7: Trực quan hoá dữ liệu với R [Đan, Đình]
 - Kaplan Meier & Forest Plot: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17APeRSavsPvm1SC-wjVuBZVixv_zQnlD?usp=sharing)
+
 #### Bài 8: Viết bài báo khoa học với sự hỗ trợ của AI [Lợi, Đan]
 #### Bài 9: Đặt câu hỏi và Ôn tập [All]
 
