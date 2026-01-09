@@ -15,7 +15,7 @@
 #### Bài 5: Xử lý và mô tả số liệu nghiên cứu bằng R [Đan, Lợi]
 #### Bài 6: Phân tích thống kê cơ bản trong nghiên cứu y học với R [Lợi]
 #### Bài 7: Trực quan hoá dữ liệu với R [Đan, Đình]
-- Kaplan Meier & Forest Plot: [![Open In Colab](https://colab.research.google.com/drive/17APeRSavsPvm1SC-wjVuBZVixv_zQnlD?usp=sharing)](https://colab.research.google.com/drive/17APeRSavsPvm1SC-wjVuBZVixv_zQnlD?usp=sharing)
+- Kaplan Meier & Forest Plot: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17APeRSavsPvm1SC-wjVuBZVixv_zQnlD?usp=sharing)
 #### Bài 8: Viết bài báo khoa học với sự hỗ trợ của AI [Lợi, Đan]
 #### Bài 9: Đặt câu hỏi và Ôn tập [All]
 
