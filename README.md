@@ -1,12 +1,17 @@
 # CHƯƠNG TRÌNH TẬP HUẤN
-## Nhập môn nghiên cứu khoa học với AI và ngôn ngữ lập trình R hỗ trợ
+## **Nhập môn nghiên cứu khoa học với AI và ngôn ngữ lập trình R hỗ trợ**
 ### Ban tổ chức: Viện nghiên cứu và Đào tạo Y dược Gia An 115
 ### Thời gian: 8:00 – 17:00 ngày 10/01/2026
 ### Địa điểm: Hội trường Diamond, Tầng 10, Bệnh viện Gia An 115
 ### Giảng viên:	TS. Lưu Phúc Lợi
 ### Trợ giảng:	ThS. Võ Trung Đình và CN. Phạm Hiếu Đan
-### Nội Dung
-#### **Sáng**
+### **Link nhóm Zalo** 
+[link: "https://zalo.me/g/phakld136"](https://zalo.me/g/phakld136)
+
+![QR_zalo](IMAGES/QR_zalo.jpg)
+
+### Nội Dung 
+#### **Sáng** 
 #### Bài 1. Giới thiệu về nghiên cứu khoa học và y đức trong nghiên cứu y sinh học [Lợi]
 #### Bài 2: Tìm kiếm và tóm tắt y văn với sự hỗ trợ của AI [Đình]
 - [PDF](DOCUMENTS/PDF/2.Search_read_and_sumarize_medical_literature.pdf)
