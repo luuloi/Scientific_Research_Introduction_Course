@@ -41,12 +41,15 @@
 - [Data: Heart_Data.csv](Heart_Data.csv)
 - Thực hành trên Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gq_Wz4EV9oB-dDFk3fY7aifNGVPD1fuo?usp=sharing)
 
-#### Bài 7: Phân tích thống kê cơ bản trong nghiên cứu y học với R [Lợi]
-#### Bài 8: Trực quan hoá dữ liệu với R [Đan, Đình]
+#### Bài 7: Trực quan hoá dữ liệu với R [Đan, Đình]
 - [PDF](DOCUMENTS/PDF/8.Data_visualization_with_R.pdf)
 - [Slides](DOCUMENTS/PPTX/8.Trực_quan_hoá_dữ_liệu_với_R.pptx)
 - Barplot & It's variants: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fo_R_oG05bVE8RoJl8A-oD7YfH8AvsTG?usp=sharing)
 - Kaplan Meier & Forest Plot: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17APeRSavsPvm1SC-wjVuBZVixv_zQnlD?usp=sharing)
+
+#### Bài 8: Phân tích thống kê cơ bản trong nghiên cứu y học với R [Lợi]
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OEDI0d9UyD19-XaLUcdKPrRxM7PZOWqp?usp=sharing)
+- [Data: Heart_Data.csv](Heart_Data.csv)
 
 #### Bài 9: Đặt câu hỏi và Ôn tập [All]
 
