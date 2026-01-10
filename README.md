@@ -20,16 +20,19 @@
 - [PDF](DOCUMENTS/PDF/2.Search_read_and_sumarize_medical_literature.pdf)
 - [Slides](DOCUMENTS/PPTX/2.Search_read_and_sumarize_medical_literature.pptx)
 
-#### Bài 3: Thiết kế nghiên cứu và ước lượng cỡ mẫu [Lợi]
-- [PDF](DOCUMENTS/PDF/Bai_3.pdf)
-- [Slides](DOCUMENTS/PPTX/Bai_3.pptx)
+#### Bài 3: Giới thiệu Google Colab và ứng dụng AI trong viet ngon ngu lap trinh R [Lợi, Đan]
+- [PDF](DOCUMENTS/PDF/3.Introduction_to_Colab_and_R_language.pdf)
+- [Slides](DOCUMENTS/PPTX/3.Giới_thiệu_Google_Colab_và_ứng_dụng_AI_trong_viet_ngon_ngu_lap_trinh_R.pptx)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15cC-5qpsYCRXpMqbMmXOg1xdRF0yqzsM?usp=drive_link)
 
-#### Bài 4: Thu thập và lưu trữ dữ liệu [Đình]
-- [PDF](DOCUMENTS/PDF/4.Data_collection_and_storage.pdf)
-- [Slides](DOCUMENTS/PPTX/4.Data_collection_and_storage.pptx)
+#### Bài 4: Thiết kế nghiên cứu và ước lượng cỡ mẫu [Lợi]
+- [PDF](DOCUMENTS/PDF/Bai_4.pdf)
+- [Slides](DOCUMENTS/PPTX/Bai_4.pptx)
 
 #### **Chiều**
-#### Bài 5: Giới thiệu Google Colab và ứng dụng AI trong viet ngon ngu lap trinh R [Lợi, Đan]
+#### Bài 5: Thu thập và lưu trữ dữ liệu [Đình]
+- [PDF](DOCUMENTS/PDF/5.Data_collection_and_storage.pdf)
+- [Slides](DOCUMENTS/PPTX/5.Data_collection_and_storage.pptx)
 
 #### Bài 6: Xử lý và mô tả số liệu nghiên cứu bằng R [Đan, Lợi]
 - [PDF](DOCUMENTS/PDF/6.Data_Management_and_Descriptive_Statistics_in_R.pdf)
