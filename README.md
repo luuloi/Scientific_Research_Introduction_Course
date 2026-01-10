@@ -28,6 +28,7 @@
 #### Bài 4: Thiết kế nghiên cứu và ước lượng cỡ mẫu [Lợi]
 - [PDF](DOCUMENTS/PDF/Bai_4.pdf)
 - [Slides](DOCUMENTS/PPTX/Bai_4.pptx)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EAXaEUf6WKKQ2h68TWRhiCeam17wddBb?usp=sharing)
 
 #### **Chiều**
 #### Bài 5: Thu thập và lưu trữ dữ liệu [Đình]
