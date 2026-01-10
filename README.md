@@ -32,8 +32,8 @@
 
 #### **Chiều**
 #### Bài 5: Thu thập và lưu trữ dữ liệu [Đình]
-- [PDF]([DOCUMENTS/PDF/5.Data_collection_and_storage.pdf](https://github.com/luuloi/Scientific_Research_Introduction_Course/blob/main/DOCUMENTS/PDF/5.Data_Entry_and_Storage.pdf))
-- [Slides](DOCUMENTS/PPTX/5.Data_collection_and_storage.pptx)
+- [PDF](DOCUMENTS/PDF/5.Data_Entry_and_Storage.pdf)
+- [Slides](DOCUMENTS/PPTX/5.Data_Entry_and_Storage.pptx)
 
 #### Bài 6: Xử lý và mô tả số liệu nghiên cứu bằng R [Đan, Lợi]
 - [PDF](DOCUMENTS/PDF/6.Data_Management_and_Descriptive_Statistics_in_R.pdf)
