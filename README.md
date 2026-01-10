@@ -38,7 +38,7 @@
 #### Bài 6: Xử lý và mô tả số liệu nghiên cứu bằng R [Đan, Lợi]
 - [PDF](DOCUMENTS/PDF/6.Data_Management_and_Descriptive_Statistics_in_R.pdf)
 - [Slides](DOCUMENTS/PPTX/6.Xử_lý_và_mô_tả_số_liệu_nghiên_cứu_bằng_R.pptx)
-- Thực hành trên Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gq_Wz4EV9oB-dDFk3fY7aifNGVPD1fuo?usp=sharing)
+- Thực hành trên Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gq_Wz4EV9oB-dDFk3fY7aifNGVPD1fuo?usp=sharing))
 
 #### Bài 7: Phân tích thống kê cơ bản trong nghiên cứu y học với R [Lợi]
 #### Bài 8: Trực quan hoá dữ liệu với R [Đan, Đình]
