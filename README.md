@@ -23,7 +23,7 @@
 #### Bài 3: Giới thiệu Google Colab và ứng dụng AI trong viet ngon ngu lap trinh R [Lợi, Đan]
 - [PDF](DOCUMENTS/PDF/3.Introduction_to_Colab_and_R_language.pdf)
 - [Slides](DOCUMENTS/PPTX/3.Giới_thiệu_Google_Colab_và_ứng_dụng_AI_trong_viet_ngon_ngu_lap_trinh_R.pptx)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15cC-5qpsYCRXpMqbMmXOg1xdRF0yqzsM?usp=drive_link)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15cC-5qpsYCRXpMqbMmXOg1xdRF0yqzsM?usp=sharing)
 
 #### Bài 4: Thiết kế nghiên cứu và ước lượng cỡ mẫu [Lợi]
 - [PDF](DOCUMENTS/PDF/Bai_4.pdf)
