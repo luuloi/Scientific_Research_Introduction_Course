@@ -44,6 +44,7 @@
 #### Bài 7: Trực quan hoá dữ liệu với R [Đan, Đình]
 - [PDF](DOCUMENTS/PDF/8.Data_visualization_with_R.pdf)
 - [Slides](DOCUMENTS/PPTX/8.Trực_quan_hoá_dữ_liệu_với_R.pptx)
+- [Data: BMI](BMI.csv)
 - Barplot & It's variants: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fo_R_oG05bVE8RoJl8A-oD7YfH8AvsTG?usp=sharing)
 - Kaplan Meier & Forest Plot: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17APeRSavsPvm1SC-wjVuBZVixv_zQnlD?usp=sharing)
 
