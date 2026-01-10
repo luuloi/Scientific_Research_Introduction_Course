@@ -49,7 +49,7 @@
 
 #### Bài 8: Phân tích thống kê cơ bản trong nghiên cứu y học với R [Lợi]
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OEDI0d9UyD19-XaLUcdKPrRxM7PZOWqp?usp=sharing)
-- [Data: Heart_Data.csv](Heart_Data.csv)
+- [Data: Cleveland_Clinic_Heart_Disease_Dataset](Cleveland_Clinic_Heart_Disease_Dataset.csv)
 
 #### Bài 9: Đặt câu hỏi và Ôn tập [All]
 
