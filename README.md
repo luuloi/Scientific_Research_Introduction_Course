@@ -52,7 +52,7 @@
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OEDI0d9UyD19-XaLUcdKPrRxM7PZOWqp?usp=sharing)
 - [Data: Cleveland_Clinic_Heart_Disease_Dataset](Cleveland_Clinic_Heart_Disease_Dataset.csv)
 
-#### Bài 9: Đặt câu hỏi, Ôn tập và kiểm tra post-test [All]
+#### Bài 9: Đặt câu hỏi, Ôn tập và Kiểm Tra Post-Test CME [All]
 
 
 
